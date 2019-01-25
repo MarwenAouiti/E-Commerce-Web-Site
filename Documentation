@@ -1,0 +1,6 @@
+- $noNavbar : This variable is used to test if we need a navbar in the current page or not.
+            If the variable is declared and empty, no navbar will be displayed.
+            Else (which is the case of non existence of $noNavbar variable) a navbar will be displayed.
+
+- $pageTitle : This variable is used to get the title of the current page
+               if it is not declared in the page file, Default will be considered as title.
